@@ -1,0 +1,6 @@
+C:\Users\royb\source\repos\Relations\Relations\obj\Debug\Relations.csprojAssemblyReference.cache
+C:\Users\royb\source\repos\Relations\Relations\bin\Debug\Relations.exe.config
+C:\Users\royb\source\repos\Relations\Relations\bin\Debug\Relations.exe
+C:\Users\royb\source\repos\Relations\Relations\bin\Debug\Relations.pdb
+C:\Users\royb\source\repos\Relations\Relations\obj\Debug\Relations.exe
+C:\Users\royb\source\repos\Relations\Relations\obj\Debug\Relations.pdb
